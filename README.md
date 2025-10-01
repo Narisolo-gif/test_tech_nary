@@ -37,15 +37,6 @@ pip install -r requirements.txt
 
 ## Lancement des services
 
-### Frontend
-
-```bash
-# Depuis la racine du projet
-cd frontend
-npm run dev
-#il faut attendre quelques secondes avant d'être redirigé vers la page article
-```
-
 ### Backend
 
 ```bash
@@ -55,6 +46,15 @@ uvicorn main:app --reload --port 8001
 ```
 
 ---
+
+### Frontend
+
+```bash
+# Depuis la racine du projet
+cd frontend
+npm run dev
+#il faut attendre quelques secondes avant d'être redirigé vers la page article :http://localhost:3000/articles
+```
 
 ## Variables d’environnement
 
