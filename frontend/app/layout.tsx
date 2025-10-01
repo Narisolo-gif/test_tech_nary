@@ -5,7 +5,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 
 
 export const metadata = {
-  title: "Articles | Next.js 15",
+  title: "Articles |",
   description: "Liste des articles avec Next.js 15 et API routes",
 };
 

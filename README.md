@@ -43,6 +43,7 @@ pip install -r requirements.txt
 # Depuis la racine du projet
 cd frontend
 npm run dev
+#il faut attendre quelques secondes avant d'être redirigé vers la page article
 ```
 
 ### Backend
@@ -108,3 +109,12 @@ Pour changer les ports :
 
 ---
 
+## testes
+
+### endpoint python
+
+curl -X POST http://127.0.0.1:8001/chat -H "Content-Type: application/json" -d "{\"message\":\"Qu'est-ce que l'EBITDA ?\"}"
+
+### API Next.js
+
+curl http://127.0.0.1:3000/api/articles
