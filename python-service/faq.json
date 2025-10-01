@@ -1,0 +1,72 @@
+[
+    {
+        "id": "faq#ebitda",
+        "q": "Qu’est-ce que l’EBITDA ?",
+        "a": "L’EBITDA est un indicateur de performance opérationnelle avant intérêts, impôts, dépréciations et amortissements."
+    },
+    {
+        "id": "faq#marge-brute",
+        "q": "À quoi sert la marge brute ?",
+        "a":"Elle mesure la part du chiffre d’affaires restant après le coût des ventes, utile pour suivre la performance commerciale et pricing."
+    },
+    {
+        "id": "faq#bilan",
+        "q": "Qu’est-ce qu’un bilan comptable ?",
+        "a": "Le bilan présente la situation financière d’une entreprise à un instant donné, avec ses actifs et passifs."
+    },
+    {
+        "id": "faq#resultat-net",
+        "q": "Comment calcule-t-on le résultat net d’une entreprise ?",
+        "a": "Le résultat net est obtenu en soustrayant les charges totales des produits totaux."
+    },
+    {
+        "id": "faq#tresorerie",
+        "q": "Qu’est-ce que la trésorerie d’une entreprise ?",
+        "a": "La trésorerie correspond à l’ensemble des liquidités disponibles immédiatement pour faire face aux dépenses."
+    },
+    {
+        "id": "faq#cash-flow",
+        "q": "Quelle est la différence entre cash-flow et bénéfice ?",
+        "a": "Le cash-flow mesure les flux de trésorerie réels, tandis que le bénéfice inclut des éléments comptables comme les amortissements."
+    },
+    {
+        "id": "faq#capital",
+        "q": "Qu’appelle-t-on le capital social d’une entreprise ?",
+        "a": "C’est le montant apporté par les associés ou actionnaires lors de la création ou des augmentations de capital."
+    },
+    {
+        "id": "faq#per",
+        "q": "Qu’est-ce que le PER (Price Earning Ratio) ?",
+        "a": "Le PER compare le prix d’une action à son bénéfice net par action, pour mesurer la valorisation d’une société."
+    },
+    {
+        "id": "faq#dividende",
+        "q": "À quoi sert un dividende ?",
+        "a": "Le dividende est la part du bénéfice distribuée aux actionnaires, comme rémunération de leur investissement."
+    },
+    {
+        "id": "faq#liquidite",
+        "q": "Que signifie la liquidité d’un actif ?",
+        "a": "C’est sa capacité à être vendu rapidement sans perte significative de valeur."
+    },
+    {
+        "id": "faq#levier-financier",
+        "q": "Qu’est-ce que l’effet de levier financier ?",
+        "a": "C’est l’utilisation de la dette pour augmenter le rendement des capitaux propres."
+    },
+    {
+        "id": "faq#cout-capital",
+        "q": "Pourquoi parle-t-on de coût du capital ?",
+        "a": "C’est le rendement minimum exigé par les investisseurs pour financer l’entreprise."
+    },
+    {
+        "id": "faq#budget-previsionnel",
+        "q": "À quoi sert un budget prévisionnel ?",
+        "a": "Il permet d’anticiper les revenus et dépenses afin de mieux piloter la gestion financière."
+    },
+    {
+        "id": "faq#amortissement",
+        "q": "Pourquoi amortit-on un actif ?",
+        "a": "L’amortissement étale le coût d’un bien durable sur sa durée d’utilisation."
+    }
+]

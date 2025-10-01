@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Next.js 15 est sorti",
+    "date": "2025-09-19",
+    "content": "La nouvelle version Next.js 15 vient d’être publiée, apportant une série d’améliorations significatives pour les développeurs. Cette mise à jour met l’accent sur la performance, la simplification de l’expérience développeur et une meilleure intégration avec l’écosystème React. Parmi les nouveautés phares, on retrouve une gestion plus fluide du rendu côté serveur, une optimisation avancée du streaming des pages et un support renforcé des composants serveur."
+  },
+  {
+    "id": 2,
+    "title": "React 19 introduit les Server Actions",
+    "date": "2025-08-10",
+    "content": "React 19 est désormais disponible avec une nouveauté majeure : les Server Actions. Cette fonctionnalité facilite l’intégration côté serveur sans avoir besoin de mettre en place des API supplémentaires. Elle simplifie la gestion des formulaires et des requêtes asynchrones dans les applications modernes."
+  },
+  {
+    "id": 3,
+    "title": "Tailwind CSS 4.0 est lancé",
+    "date": "2025-07-22",
+    "content": "Tailwind CSS 4.0 apporte un compilateur encore plus rapide et des fonctionnalités de typographie avancées. Cette version met l’accent sur la productivité des développeurs front-end et l’optimisation des performances."
+  },
+  {
+    "id": 4,
+    "title": "Node.js 22 améliore le support ESM",
+    "date": "2025-06-05",
+    "content": "La version 22 de Node.js améliore considérablement la compatibilité avec les modules ECMAScript (ESM). Les développeurs peuvent désormais utiliser un système de chargement plus stable, tout en bénéficiant d’améliorations de performance côté serveur."
+  },
+  {
+    "id": 5,
+    "title": "Bun 2.0 sort officiellement",
+    "date": "2025-05-28",
+    "content": "Bun 2.0 propose une vitesse d’exécution encore plus impressionnante et une meilleure compatibilité avec l’écosystème npm. Le runtime JavaScript continue de séduire les développeurs avec sa rapidité et son approche intégrée."
+  },
+  {
+    "id": 6,
+    "title": "Google publie un nouvel algorithme SEO",
+    "date": "2025-04-17",
+    "content": "Google annonce un nouvel algorithme SEO qui met l’accent sur l’expérience utilisateur et la qualité du contenu. Les sites web rapides, accessibles et riches en informations pertinentes seront mieux classés dans les résultats de recherche."
+  },
+  {
+    "id": 7,
+    "title": "Deno ajoute un support natif à npm",
+    "date": "2025-03-09",
+    "content": "Le runtime Deno annonce la prise en charge native de npm, permettant aux développeurs d’utiliser directement les modules existants de l’écosystème Node.js sans configuration complexe."
+  },
+  {
+    "id": 8,
+    "title": "ChatGPT se met à jour avec la version GPT-5",
+    "date": "2025-02-14",
+    "content": "OpenAI annonce GPT-5, une nouvelle version de son modèle de langage. Cette mise à jour améliore la compréhension contextuelle, la précision des réponses et la capacité à générer du code fiable."
+  },
+  {
+    "id": 9,
+    "title": "Microsoft annonce VS Code Online",
+    "date": "2025-01-25",
+    "content": "Visual Studio Code Online permet désormais aux développeurs de coder directement depuis leur navigateur avec une expérience fluide, tout en gardant les extensions et configurations synchronisées."
+  },
+  {
+    "id": 10,
+    "title": "GitHub Copilot intègre la planification de projets",
+    "date": "2024-12-12",
+    "content": "GitHub Copilot évolue au-delà de la suggestion de code en proposant désormais un module de planification. Les développeurs peuvent générer des plans de développement et gérer leurs tâches directement depuis l’éditeur."
+  },
+  {
+    "id": 11,
+    "title": "Apple dévoile Safari 19 avec un mode développeur avancé",
+    "date": "2024-11-30",
+    "content": "Safari 19 met l’accent sur la compatibilité avec les PWA et propose un mode développeur plus riche en outils de debug. Apple cherche à séduire davantage la communauté web."
+  }
+]

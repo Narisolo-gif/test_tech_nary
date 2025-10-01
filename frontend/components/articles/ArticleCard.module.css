@@ -1,0 +1,30 @@
+.card {
+  padding: 16px;
+  border-radius: 16px;
+  background: #f6f6f6;
+  box-shadow: 0 6px 6px  rgba(0, 0, 0, 0.2); /* plus large et plus foncé */
+  transition: box-shadow 0.2s ease-in-out;
+  width: 100%;
+}
+.title{
+    color: #c2003f;
+    text-transform: uppercase;
+}
+
+.date{
+    color: #5463a9;
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+
+.content{
+  font-size: 16px;
+  color: #414042;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;      /* Limite à 3 lignes */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: 600;
+}

@@ -1,0 +1,26 @@
+.user {
+  background-color: #5463a9;
+  font-weight: bold;
+  padding: 6px 12px;
+  border-radius: 12px;
+  margin-bottom: 4px;
+}
+
+.bot {
+  background-color: #f6f6f6;
+  color: #414042;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 12px;
+  margin-bottom: 4px;
+}
+
+.badge {
+  display: inline-block;
+  max-width: 250px; /* largeur max avant retour à la ligne */
+  word-wrap: break-word; /* coupe les mots longs */
+  word-break: break-word; /* compatibilité */
+  white-space: normal; /* autorise le retour à la ligne */
+  line-height: 1.4; /* lisibilité */
+  text-align: left; /* alignement du texte */;
+}
