@@ -18,6 +18,7 @@
 ### 1. Frontend (Next.js)
 
 ```bash
+# Depuis la racine du projet
 cd frontend
 npm install
 ```
@@ -25,6 +26,7 @@ npm install
 ### 2. Backend (FastAPI)
 
 ```bash
+# Depuis la racine du projet
 cd python-service
 python -m venv .venv
 .venv\Scripts\activate
@@ -38,6 +40,7 @@ pip install -r requirements.txt
 ### Frontend
 
 ```bash
+# Depuis la racine du projet
 cd frontend
 npm run dev
 ```
@@ -45,6 +48,7 @@ npm run dev
 ### Backend
 
 ```bash
+# Depuis la racine du projet
 cd python-service
 uvicorn main:app --reload --port 8001
 ```
